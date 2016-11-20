@@ -6,7 +6,10 @@ It can be used with HTML5 based output formats, including
 EPUB and HTML-based slide shows like reveal.js.
 
 Here's an example of its output:
-[math-samples.html](math-samples.html).
+[math-samples.html](math-samples.html).  This renders
+like this in a modern browser:
+
+![rendered version of math-samples.html](math-samples.png)
 
 The filter uses `tex2svg` from
 [MathJax-node](https://github.com/mathjax/MathJax-node).
