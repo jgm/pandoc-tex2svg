@@ -5,6 +5,9 @@ pandoc-tex2svg is a pandoc filter that renders math as SVG.
 It can be used with HTML5 based output formats, including
 EPUB and HTML-based slide shows like reveal.js.
 
+Here's an example of its output:
+[math-samples.html](math-samples.html).
+
 The filter uses `tex2svg` from
 [MathJax-node](https://github.com/mathjax/MathJax-node).
 To install using npm,
